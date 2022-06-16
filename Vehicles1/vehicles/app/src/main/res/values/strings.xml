@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guitars</string>
+    <string name="txtFirst"><![CDATA[<<]]></string>
+    <string name="txtPrev"><![CDATA[<]]></string>
+    <string name="txtNext"><![CDATA[>]]></string>
+    <string name="txtLast"><![CDATA[>>]]></string>
+    <string name="txtAddRec">Add</string>
+    <string name="btnDelRec">Del</string>
+    <string name="txtSerialNumber">Serial number</string>
+    <string name="txtMake">Make</string>
+    <string name="txtModel">Model</string>
+    <string name="txtNumberOfStrings">Number of strings</string>
+</resources>
